@@ -1,7 +1,7 @@
 {
   "name": "myqee/test",
   "description": "MyQEE test project for Composer",
-  "keywords": ["MyQEE", "MyQEE Project"],
+  "keywords": ["MyQEE", "MyQEE test Project"],
   "homepage": "http://www.myqee.com/",
   "type": "laravel-library",
   "license": "Apache-2.0",
@@ -11,9 +11,6 @@
       "email": "jonwang@queyang.com",
       "homepage": "http://www.queyang.com/"
     }
-  ],
-  "bin" : [
-    "bin/merge-assets"
   ],
   "require": {
     "php": ">=5.3.0",

@@ -11,7 +11,7 @@
       "homepage": "http://www.queyang.com/"
     }
   ],
-  "type": "database-MyTest",
+  "type": "database",
   "require": {
     "php": ">=5.4.0",
     "myqee/installer": "dev-master",

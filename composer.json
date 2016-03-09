@@ -12,6 +12,9 @@
     }
   ],
   "type": "database",
+  "extra": {
+    "dir": "MyTest"
+  },
   "require": {
     "php": ">=5.4.0",
     "myqee/installer": "~4.1",

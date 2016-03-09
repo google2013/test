@@ -11,9 +11,10 @@
       "homepage": "http://www.queyang.com/"
     }
   ],
+  "type": "database-MyTest",
   "require": {
     "php": ">=5.4.0",
-    "myqee/installer": "~4.1"
-  },
-  "type": "database"
+    "myqee/installer": "~4.1",
+    "myqee/database": "dev-master"
+  }
 }

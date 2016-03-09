@@ -14,7 +14,7 @@
   "type": "database",
   "require": {
     "php": ">=5.4.0",
-    "myqee/installer": "dev-master",
+    "myqee/installer": "~4.1",
     "myqee/database": "dev-master"
   }
 }
